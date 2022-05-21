@@ -14,6 +14,9 @@ I am an undergraduate student from Fuzhou University, major in *Computer science
 
 ## News																							
 
-B.Sc Oral Defense. <div style="float: right;">2022.5.21 </div>
+[2022.5.21]B.Sc Oral Defense.
 
-Congratulation! Second Prize in the Eastern Division of the 13th China University Student Service Outsourcing Innovation and Entrepreneurship Competition<div style="float: right;">2022.5.15 </div>
+[2022.5.15]Congratulation! Second Prize in the Eastern Division of the 13th China University Student Service Outsourcing Innovation and Entrepreneurship Competition
+
+## Selected Projects
+> 
