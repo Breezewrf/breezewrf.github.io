@@ -12,9 +12,8 @@ redirect_from:
 
 I am an undergraduate student from Fuzhou University, major in *Computer science*, and a prospective Msc student of City University of Hong Kong.  
 
-## News
+## News																							
 
-- B.Sc Oral Defense. 																													2022.5.21:heart:
-- Congratulation!                                                                                                                          2022.5.15
+B.Sc Oral Defense. <div style="float: right;">2022.5.21 </div>
 
-**Second Prize** in the Eastern Division of the 13th China University Student Service Outsourcing Innovation and Entrepreneurship Competition
+Congratulation! Second Prize in the Eastern Division of the 13th China University Student Service Outsourcing Innovation and Entrepreneurship Competition<div style="float: right;">2022.5.15 </div>
