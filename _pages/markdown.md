@@ -1,3 +1,14 @@
+---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
+## Competitions
+
 + First Prize of the 11th Cross-Strait Information Service Innovation (第十一屆海峽兩岸信息服務創新大賽) | Nov.2021, leader
 + The first prize of the 10th ”Ruizhi Cup” Fujian College Student
 Intelligent Design Competition | July.2021, leader
