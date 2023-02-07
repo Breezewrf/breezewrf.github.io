@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rongfeng Wei"
   avatar           : "photo.png"
-  bio              : "Fuzhou University"
-  location         : "Fuzhou, China"
+  bio              : "City University of Hong Kong"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "breezewrf@163.com"
+  email            : "breezewrf@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
