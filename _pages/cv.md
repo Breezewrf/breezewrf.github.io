@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Education
 ======
-* B.S. in Fuzhou University, 2012
+* B.S. in Fuzhou University, 2022
 
   
 Skills
