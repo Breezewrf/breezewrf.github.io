@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 Education
 ======
+* M.S. in City University of Hong Kong, 2023
 * B.S. in Fuzhou University, 2022
 
   
@@ -20,4 +21,4 @@ Skills
 
 Details
 ======
-[detail see...](/files/CV.pdf)
+[detail see...](/files/Rezume.pdf)
